@@ -1,0 +1,8 @@
+tensorflow==2.1.0
+tensorflow_hub
+pandas
+efficientnet
+django
+djangorestframework
+fastapi
+uvicorn
